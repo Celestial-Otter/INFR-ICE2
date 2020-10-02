@@ -1,0 +1,9 @@
+﻿  GameObject.cpp
+  Main.cpp
+  Wrapper.cpp
+  Generating code
+  4 of 4 functions (100.0%) were compiled.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DLL_Test.vcxproj -> d:\Desktop\DLL Test\DLL_Test\x64\Release\DLL_Test.dll
